@@ -1,0 +1,5 @@
+= Japa
+
+Japa is dead fu**king simple static documentation website generator for Node.js. This repo contains the core processors for generating docs and static pages.
+
+Make sure to checkout official docs.
